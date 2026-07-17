@@ -294,30 +294,6 @@ Designed and developed AI-powered software solutions and enterprise web applicat
 
 ---
 
-| Position                                     | Organization                          | Duration               |
-| -------------------------------------------- | ------------------------------------- | ---------------------- |
-| **Customer Service Representative (Remote)** | **Downright Printing, New York, USA** | **Aug 2023 – Present** |
-
-Manage communication for 50+ client accounts and generate qualified leads through proactive outreach, contributing to consistent quarter-over-quarter revenue growth.
-
-### Responsibilities
-
-- Client communication
-- Lead generation
-- Sales support
-- CRM management
-- International customer support
-
-**Skills**
-
-`Communication`
-`CRM`
-`Problem Solving`
-`Sales`
-`Client Management`
-
----
-
 | Position                  | Organization                            | Duration                |
 | ------------------------- | --------------------------------------- | ----------------------- |
 | **UI/UX Designer Intern** | **Cognorise Infotech, Remote (Lahore)** | **Aug 2024 – Sep 2024** |
@@ -355,13 +331,12 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 
 <div align="center">
 
-| Recognition                 | Details                                                    |
-| --------------------------- | ---------------------------------------------------------- |
-| 🎓 Academic Excellence      | Graduating with **3.7 / 4.0 CGPA** in Computer Science     |
-| 🤖 Conversational AI        | Built and deployed production-grade chatbots and voicebots |
-| 💻 Full Stack Engineering   | Built end-to-end scalable full-stack applications          |
-| 🚀 Deployment               | Successfully delivered production-ready software solutions |
-| 🌍 International Experience | Worked remotely with international clients                 |
+| Recognition               | Details                                                    |
+| ------------------------- | ---------------------------------------------------------- |
+| 🎓 Academic Excellence    | Graduating with **3.7 / 4.0 CGPA** in Computer Science     |
+| 🤖 Conversational AI      | Built and deployed production-grade chatbots and voicebots |
+| 💻 Full Stack Engineering | Built end-to-end scalable full-stack applications          |
+| 🚀 Deployment             | Successfully delivered production-ready software solutions |
 
 </div>
 
@@ -375,22 +350,6 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 
 <img src="https://img.shields.io/badge/Anthropic-Claude%20101-6D28D9?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Coming%20Soon-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Currently%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Coming%20Soon-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Future%20Certification-4F46E5?style=for-the-badge"/>
 
 </div>
 
@@ -409,40 +368,6 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-
-</a>
-
-<a href="https://www.codechef.com/users/">
-
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-</a>
-
-</div>
-
-> Replace the links above with your own profile URLs.
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -456,16 +381,6 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Kainatnvd&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kainatnvd&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -497,13 +412,14 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 
 ```yaml
 learning:
-  - System Design
+  - Advanced Web Development
+  - Mobile App Development
   - Cloud Computing (AWS)
-  - Docker & Kubernetes
 
 building:
-  - RecruitFlow (AI-powered ATS)
-  - Production-ready REST APIs
+  - Full Stack Web Applications
+  - Cross-platform Mobile Apps
+  - AI / ML-powered Projects
 
 exploring:
   - Agentic AI
@@ -511,10 +427,10 @@ exploring:
   - Distributed Systems
 
 open_to:
-  - Software Engineering Roles
-  - Full Stack Development
-  - Backend Engineering
-  - Research Collaboration
+  - Software Development Roles
+  - Web Development
+  - App Development
+  - AI / ML Projects
   - Open Source
 ```
 
