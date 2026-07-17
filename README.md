@@ -66,24 +66,22 @@
 
 # About Me
 
-I'm a **Software Engineer** passionate about designing and building scalable software systems that combine exceptional user experiences with intelligent automation.
+I'm a **Software Engineer** passionate about designing and building scalable software systems that combine strong engineering fundamentals with intelligent automation.
 
-My primary interests lie in **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Product Engineering**. I enjoy transforming complex business requirements into production-ready applications that emphasize performance, maintainability, security, and scalability.
+My primary interests lie in **Full Stack Development**, **Conversational AI**, and **Product Engineering**. I enjoy transforming complex business requirements into production-ready applications that emphasize performance, maintainability, security, and scalability.
 
-Throughout my engineering journey, I've developed AI-powered platforms, conversational assistants, enterprise web applications, and cloud-ready software solutions using modern technologies including **React**, **FastAPI**, **Python**, **JavaScript**, **Flutter**, and **PostgreSQL**.
+Throughout my engineering journey, I've built AI-powered chatbots and voicebots, enterprise web applications, and cloud-integrated tools using modern technologies including **React**, **FastAPI**, **Python**, **JavaScript**, **C++**, **ASP.NET Core**, **Node.js**, **Flutter**, and **PostgreSQL**.
 
 I strongly believe software should solve real-world problems—not just demonstrate technology.
 
 ### Open To
 
-- AI Engineering
 - Software Engineering
 - Full Stack Development
 - Backend Engineering
-- Machine Learning Engineering
+- AI / Conversational AI Engineering
 - Product Engineering
 - Open Source Collaboration
-- Research Opportunities
 
 ---
 
@@ -101,7 +99,7 @@ I strongly believe software should solve real-world problems—not just demonstr
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,figma"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,figma"/>
 
 </p>
 
@@ -109,7 +107,7 @@ I strongly believe software should solve real-world problems—not just demonstr
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,mongodb,postgresql,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,dotnet,mongodb,postgresql,firebase"/>
 
 </p>
 
@@ -117,32 +115,40 @@ I strongly believe software should solve real-world problems—not just demonstr
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
+
+</p>
+
+## AI / NLP Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Claude%20AI-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20Whisper-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rasa-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Botpress-A78BFA?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# AI / Machine Learning Expertise
+# AI / Conversational AI Expertise
 
-| Domain | Proficiency | Details |
-|---------|-------------|---------|
-| Machine Learning | ★★★★☆ | Supervised Learning, Classification, Model Evaluation |
-| Natural Language Processing | ★★★★★ | Conversational AI, Intent Detection, Prompt Engineering |
-| Generative AI | ★★★★★ | Google Gemini API, Claude AI, OpenAI APIs |
-| Speech AI | ★★★★★ | Whisper Speech-to-Text, Voice Interfaces |
-| AI Product Development | ★★★★★ | End-to-End AI Product Engineering |
-| Chatbots & Voicebots | ★★★★★ | Enterprise Conversational Systems |
-| Backend AI Integration | ★★★★★ | FastAPI AI Services |
-| Data Processing | ★★★★☆ | Data Cleaning, Feature Engineering |
-| Deep Learning | ★★★★☆ | CNNs, RNNs, LSTMs, Transformers |
-| Model Deployment | ★★★★☆ | REST APIs, Production Integration |
+| Domain                      | Proficiency | Details                                             |
+| --------------------------- | ----------- | --------------------------------------------------- |
+| Natural Language Processing | ★★★★★       | Conversational AI, Intent Detection, Rasa, Botpress |
+| Generative AI               | ★★★★★       | Google Gemini API, Claude AI                        |
+| Speech AI                   | ★★★★★       | OpenAI Whisper Speech-to-Text, Voice Interfaces     |
+| AI Product Development      | ★★★★★       | End-to-End Chatbot & Voicebot Product Engineering   |
+| Chatbots & Voicebots        | ★★★★★       | Enterprise Conversational Systems                   |
+| Backend AI Integration      | ★★★★★       | FastAPI AI Services                                 |
 
 ---
 
 # Engineering Philosophy
 
-> *"Great software is not defined by the technologies it uses—it is defined by the problems it solves, the people it empowers, and the engineering discipline behind every decision."*
+> _"Great software is not defined by the technologies it uses—it is defined by the problems it solves, the people it empowers, and the engineering discipline behind every decision."_
 
 ---
 
@@ -151,61 +157,22 @@ I strongly believe software should solve real-world problems—not just demonstr
 <details open>
 <summary>
 
-## RecruitFlow — AI-Powered Applicant Tracking System
-
-</summary>
-
-A modern, AI-powered Applicant Tracking System (ATS) built using the MERN stack to streamline recruitment workflows. RecruitFlow provides dedicated HR and Applicant portals, enabling organizations to manage hiring pipelines, job postings, applications, and candidate evaluations through an intuitive SaaS-inspired interface.
-
-| Category | Details |
-|----------|---------|
-| **Stack** | React.js • Redux Toolkit • Tailwind CSS • Node.js • Express.js • MongoDB Atlas • JWT |
-| **Architecture** | MERN Stack • REST APIs • Component-Based Architecture |
-| **Scale** | Multi-role platform with dedicated HR & Applicant portals |
-| **Performance** | Optimized routing, lazy loading, reusable UI components |
-| **Security** | JWT Authentication • Protected Routes • Role-based Authorization |
-| **Engineering Focus** | Scalable Frontend Architecture • API Integration • State Management |
-| **Impact** | Simplifies recruitment workflows and improves hiring efficiency |
-| **Repository** | *(Add Repository Link)* |
-
-### Highlights
-
-- Multi-role authentication (HR & Applicant)
-- Modern SaaS dashboard
-- Candidate management
-- Job posting system
-- Application tracking
-- Resume management
-- Responsive UI
-- Redux-powered state management
-- Protected routing
-- Modular component architecture
-- Clean REST API integration
-- Mobile-friendly interface
-
-</details>
-
----
-
-<details open>
-<summary>
-
-## PayTalk — AI-Powered Voice Banking Platform
+## PayTalk — AI-Powered Voice Banking Platform (Final Year Project)
 
 </summary>
 
 PayTalk is an AI-driven bilingual voice banking application designed to simplify digital banking through natural voice conversations. The platform combines speech recognition, intelligent language understanding, and secure banking workflows to enable seamless financial interactions.
 
-| Category | Details |
-|----------|---------|
-| **Stack** | Python • FastAPI • Flutter • PostgreSQL • OpenAI Whisper • Google Gemini API |
-| **Architecture** | Microservice-based REST Backend |
-| **Scale** | AI-powered Banking Assistant |
-| **Performance** | 92.4% Speech Recognition Accuracy • 93.1% Intent Recognition Accuracy |
-| **Security** | AES-256 Encryption • OTP Verification • CNIC Authentication |
-| **Engineering Focus** | AI Integration • NLP • Secure Backend Development |
-| **Impact** | Improves accessibility for digital banking through voice-first interactions |
-| **Repository** | *(Add Repository Link)* |
+| Category              | Details                                                                          |
+| --------------------- | -------------------------------------------------------------------------------- |
+| **Stack**             | Python • FastAPI • Flutter SDK • PostgreSQL • OpenAI Whisper • Google Gemini API |
+| **Architecture**      | Microservice-based REST Backend                                                  |
+| **Scale**             | AI-powered Banking Assistant                                                     |
+| **Performance**       | 92.4% Whisper Speech-to-Text Accuracy • 93.1% Gemini NLU Accuracy                |
+| **Security**          | AES-256 Encryption • OTP Verification • CNIC Authentication                      |
+| **Engineering Focus** | AI Integration • NLP • Secure Backend Development                                |
+| **Impact**            | Improves accessibility for digital banking through voice-first interactions      |
+| **Delivery**          | Flutter app + integrable SDK                                                     |
 
 ### Highlights
 
@@ -235,16 +202,16 @@ PayTalk is an AI-driven bilingual voice banking application designed to simplify
 
 Snaccify is a full-stack food ordering platform designed to modernize restaurant ordering experiences through AI-assisted customer interaction, personalized recommendations, and streamlined order management.
 
-| Category | Details |
-|----------|---------|
-| **Stack** | JavaScript • Node.js • Express.js • MongoDB • EmailJS • Vercel |
-| **Architecture** | MERN-based Web Application |
-| **Scale** | Full-stack Restaurant Platform |
-| **Performance** | Fast page loads with optimized database queries |
-| **Security** | Input Validation • Secure API Handling |
-| **Engineering Focus** | Full Stack Development • UI/UX • Database Design |
-| **Impact** | Enhances customer engagement while improving restaurant ordering workflows |
-| **Repository** | *(Add Repository Link)* |
+| Category              | Details                                                              |
+| --------------------- | -------------------------------------------------------------------- |
+| **Stack**             | JavaScript • MongoDB • EmailJS • Vercel                              |
+| **Architecture**      | Full-stack Web Application                                           |
+| **Scale**             | Full-stack Restaurant Platform                                       |
+| **Performance**       | Fast page loads with optimized database queries                      |
+| **Security**          | Input Validation • Secure API Handling                               |
+| **Engineering Focus** | Full Stack Development • UI/UX • Database Design                     |
+| **Impact**            | Boosted average order value via "Surprise Me" recommendation feature |
+| **Repository**        | _(Add Repository Link)_                                              |
 
 ### Highlights
 
@@ -272,29 +239,26 @@ Snaccify is a full-stack food ordering platform designed to modernize restaurant
 
 Designed and developed an enterprise AI-powered chatbot and responsive corporate website for Sooraj Crop Sciences during my Software Engineering Internship at AppRays. The solution automated customer support while strengthening the company's digital presence.
 
-| Category | Details |
-|----------|---------|
-| **Stack** | React.js • Python • FastAPI • Google Gemini API • JavaScript |
-| **Architecture** | AI-powered Web Platform |
-| **Scale** | Enterprise Customer Support Solution |
-| **Performance** | Reduced manual support workload through automated conversations |
-| **Security** | Secure API Integration |
+| Category              | Details                                                               |
+| --------------------- | --------------------------------------------------------------------- |
+| **Stack**             | React.js • Python • JavaScript                                        |
+| **Architecture**      | AI-powered Web Platform                                               |
+| **Scale**             | Enterprise Customer Support Solution                                  |
+| **Performance**       | Reduced manual support workload by an estimated 30%                   |
+| **Security**          | Secure API Integration                                                |
 | **Engineering Focus** | Conversational AI • Frontend Engineering • Enterprise Web Development |
-| **Impact** | Improved customer support efficiency and digital engagement |
-| **Repository** | Private (Internship Project) |
+| **Impact**            | Improved customer support efficiency and digital engagement           |
+| **Repository**        | Private (Internship Project)                                          |
 
 ### Highlights
 
-- AI-powered chatbot
-- Voice assistant integration
-- Google Gemini API
-- Intelligent FAQ handling
+- NLP-based chatbot/voicebot
+- Handles FAQs and product inquiries
 - Responsive React website
-- REST API integration
 - Enterprise UI
 - Product inquiry automation
 - Mobile-first design
-- Modern corporate branding
+- Modern corporate branding aligned with business needs
 
 </details>
 
@@ -302,18 +266,17 @@ Designed and developed an enterprise AI-powered chatbot and responsive corporate
 
 # Professional Experience
 
-| Position | Organization | Duration |
-|-----------|--------------|----------|
+| Position                     | Organization               | Duration                |
+| ---------------------------- | -------------------------- | ----------------------- |
 | **Software Engineer Intern** | **AppRays (LUMS), Lahore** | **Nov 2025 – Feb 2026** |
 
 Designed and developed AI-powered software solutions and enterprise web applications for production use.
 
 ### Responsibilities
 
-- Built AI chatbot & voicebot solutions
-- Developed responsive React applications
+- Built and deployed a production-grade AI chatbot and voicebot using Rasa and Botpress, cutting average response time by an estimated 40%
+- Developed a responsive corporate website for Sooraj Crop Sciences in React.js, collaborating with a 5-person cross-functional team to deliver on schedule
 - Integrated AI APIs into enterprise systems
-- Collaborated with cross-functional engineering teams
 - Optimized customer support automation
 - Delivered production-ready software
 
@@ -323,18 +286,19 @@ Designed and developed AI-powered software solutions and enterprise web applicat
 `FastAPI`
 `Python`
 `Google Gemini`
-`REST APIs`
+`Rasa`
+`Botpress`
 `JavaScript`
 `Git`
 `Agile`
 
 ---
 
-| Position | Organization | Duration |
-|-----------|--------------|----------|
-| **Customer Service Representative (Remote)** | **Downright Printing, USA** | **Aug 2023 – Present** |
+| Position                                     | Organization                          | Duration               |
+| -------------------------------------------- | ------------------------------------- | ---------------------- |
+| **Customer Service Representative (Remote)** | **Downright Printing, New York, USA** | **Aug 2023 – Present** |
 
-Managed communication for international clients while strengthening problem-solving, stakeholder communication, and customer relationship management skills.
+Manage communication for 50+ client accounts and generate qualified leads through proactive outreach, contributing to consistent quarter-over-quarter revenue growth.
 
 ### Responsibilities
 
@@ -354,11 +318,11 @@ Managed communication for international clients while strengthening problem-solv
 
 ---
 
-| Position | Organization | Duration |
-|-----------|--------------|----------|
-| **UI/UX Designer Intern** | **Cognorise Infotech** | **Aug 2024 – Sep 2024** |
+| Position                  | Organization                            | Duration                |
+| ------------------------- | --------------------------------------- | ----------------------- |
+| **UI/UX Designer Intern** | **Cognorise Infotech, Remote (Lahore)** | **Aug 2024 – Sep 2024** |
 
-Designed user interfaces, dashboards, and branding assets while improving design-to-development workflows.
+Designed 10+ UI prototypes, dashboards, and branding materials in Figma, improving design-to-development handoff efficiency.
 
 ### Responsibilities
 
@@ -379,18 +343,25 @@ Designed user interfaces, dashboards, and branding assets while improving design
 
 ---
 
+| Position             | Organization                                                     | Duration        |
+| -------------------- | ---------------------------------------------------------------- | --------------- |
+| **Volunteer Intern** | **Pakistan Crescent Youth Organization (UN-Affiliated), Lahore** | **Summer 2019** |
+
+Led social awareness campaigns and raised PKR 37,000 through organized fundraising initiatives.
+
+---
+
 # Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| 🎓 Academic Excellence | Graduated with **3.70 CGPA** in Computer Science |
-| 🤖 AI Engineering | Developed multiple AI-powered conversational systems |
-| 💻 Product Engineering | Built end-to-end scalable full-stack applications |
-| 🚀 Deployment | Successfully delivered production-ready software solutions |
-| 🌍 International Experience | Worked remotely with international clients |
-| 📈 Continuous Learning | Strong focus on AI, Full Stack Development & Software Engineering |
+| Recognition                 | Details                                                    |
+| --------------------------- | ---------------------------------------------------------- |
+| 🎓 Academic Excellence      | Graduating with **3.7 / 4.0 CGPA** in Computer Science     |
+| 🤖 Conversational AI        | Built and deployed production-grade chatbots and voicebots |
+| 💻 Full Stack Engineering   | Built end-to-end scalable full-stack applications          |
+| 🚀 Deployment               | Successfully delivered production-ready software solutions |
+| 🌍 International Experience | Worked remotely with international clients                 |
 
 </div>
 
@@ -420,6 +391,19 @@ Designed user interfaces, dashboards, and branding assets while improving design
 ### NPTEL
 
 <img src="https://img.shields.io/badge/NPTEL-Future%20Certification-4F46E5?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Education
+
+<div align="center">
+
+| Degree                                  | Institution                          | Duration    |
+| --------------------------------------- | ------------------------------------ | ----------- |
+| **BS Computer Science** (CGPA: 3.7/4.0) | Lahore Garrison University, Pakistan | 2022 – 2026 |
+| **A-Levels**                            | DHA Education System, Lahore         | 2020 – 2022 |
 
 </div>
 
@@ -515,24 +499,19 @@ Designed user interfaces, dashboards, and branding assets while improving design
 learning:
   - System Design
   - Cloud Computing (AWS)
-  - Machine Learning
-  - Large Language Models
-  - MLOps
+  - Docker & Kubernetes
 
 building:
-  - RecruitFlow
-  - AI-powered Full Stack Applications
+  - RecruitFlow (AI-powered ATS)
   - Production-ready REST APIs
 
 exploring:
   - Agentic AI
   - RAG Systems
-  - Docker & Kubernetes
   - Distributed Systems
 
 open_to:
   - Software Engineering Roles
-  - AI/ML Engineering
   - Full Stack Development
   - Backend Engineering
   - Research Collaboration
@@ -575,7 +554,7 @@ open_to:
 
 <div align="center">
 
-### *"Building scalable software that transforms ideas into intelligent, impactful products."*
+### _"Building scalable software that transforms ideas into intelligent, impactful products."_
 
 </div>
 
