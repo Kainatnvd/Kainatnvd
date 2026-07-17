@@ -414,7 +414,7 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 learning:
   - Advanced Web Development
   - Mobile App Development
-  - Cloud Computing (AWS)
+  - AI Essentials
 
 building:
   - Full Stack Web Applications
