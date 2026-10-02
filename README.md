@@ -404,7 +404,7 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 
 </div>
 
-> **Note:** This animation requires a GitHub Actions workflow (instructions below).
+>
 
 ---
 
