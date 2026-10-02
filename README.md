@@ -333,7 +333,7 @@ Led social awareness campaigns and raised PKR 37,000 through organized fundraisi
 
 | Recognition               | Details                                                    |
 | ------------------------- | ---------------------------------------------------------- |
-| 🎓 Academic Excellence    | Graduating with **3.7 / 4.0 CGPA** in Computer Science     |
+| 🎓 Academic Excellence    | Graduating with **3.72 / 4.0 CGPA** in Computer Science     |
 | 🤖 Conversational AI      | Built and deployed production-grade chatbots and voicebots |
 | 💻 Full Stack Engineering | Built end-to-end scalable full-stack applications          |
 | 🚀 Deployment             | Successfully delivered production-ready software solutions |
